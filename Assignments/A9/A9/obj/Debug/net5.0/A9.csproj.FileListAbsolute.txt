@@ -1,0 +1,16 @@
+c:\git\AP99002\A9\A9\bin\Debug\net5.0\A9.exe
+c:\git\AP99002\A9\A9\bin\Debug\net5.0\A9.deps.json
+c:\git\AP99002\A9\A9\bin\Debug\net5.0\A9.runtimeconfig.json
+c:\git\AP99002\A9\A9\bin\Debug\net5.0\A9.runtimeconfig.dev.json
+c:\git\AP99002\A9\A9\bin\Debug\net5.0\A9.dll
+c:\git\AP99002\A9\A9\bin\Debug\net5.0\ref\A9.dll
+c:\git\AP99002\A9\A9\bin\Debug\net5.0\A9.pdb
+c:\git\AP99002\A9\A9\obj\Debug\net5.0\A9.csprojAssemblyReference.cache
+c:\git\AP99002\A9\A9\obj\Debug\net5.0\A9.GeneratedMSBuildEditorConfig.editorconfig
+c:\git\AP99002\A9\A9\obj\Debug\net5.0\A9.AssemblyInfoInputs.cache
+c:\git\AP99002\A9\A9\obj\Debug\net5.0\A9.AssemblyInfo.cs
+c:\git\AP99002\A9\A9\obj\Debug\net5.0\A9.csproj.CoreCompileInputs.cache
+c:\git\AP99002\A9\A9\obj\Debug\net5.0\A9.dll
+c:\git\AP99002\A9\A9\obj\Debug\net5.0\ref\A9.dll
+c:\git\AP99002\A9\A9\obj\Debug\net5.0\A9.pdb
+c:\git\AP99002\A9\A9\obj\Debug\net5.0\A9.genruntimeconfig.cache

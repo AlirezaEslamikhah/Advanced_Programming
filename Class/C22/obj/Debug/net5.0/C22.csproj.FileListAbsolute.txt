@@ -1,0 +1,16 @@
+C:\git\AP99002\Class\C22\bin\Debug\net5.0\C22.exe
+C:\git\AP99002\Class\C22\bin\Debug\net5.0\C22.deps.json
+C:\git\AP99002\Class\C22\bin\Debug\net5.0\C22.runtimeconfig.json
+C:\git\AP99002\Class\C22\bin\Debug\net5.0\C22.runtimeconfig.dev.json
+C:\git\AP99002\Class\C22\bin\Debug\net5.0\C22.dll
+C:\git\AP99002\Class\C22\bin\Debug\net5.0\ref\C22.dll
+C:\git\AP99002\Class\C22\bin\Debug\net5.0\C22.pdb
+C:\git\AP99002\Class\C22\obj\Debug\net5.0\C22.csprojAssemblyReference.cache
+C:\git\AP99002\Class\C22\obj\Debug\net5.0\C22.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP99002\Class\C22\obj\Debug\net5.0\C22.AssemblyInfoInputs.cache
+C:\git\AP99002\Class\C22\obj\Debug\net5.0\C22.AssemblyInfo.cs
+C:\git\AP99002\Class\C22\obj\Debug\net5.0\C22.csproj.CoreCompileInputs.cache
+C:\git\AP99002\Class\C22\obj\Debug\net5.0\C22.dll
+C:\git\AP99002\Class\C22\obj\Debug\net5.0\ref\C22.dll
+C:\git\AP99002\Class\C22\obj\Debug\net5.0\C22.pdb
+C:\git\AP99002\Class\C22\obj\Debug\net5.0\C22.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\git\AP99002\Class\C21\bin\Debug\net5.0\C21.exe
+C:\git\AP99002\Class\C21\bin\Debug\net5.0\C21.deps.json
+C:\git\AP99002\Class\C21\bin\Debug\net5.0\C21.runtimeconfig.json
+C:\git\AP99002\Class\C21\bin\Debug\net5.0\C21.runtimeconfig.dev.json
+C:\git\AP99002\Class\C21\bin\Debug\net5.0\C21.dll
+C:\git\AP99002\Class\C21\bin\Debug\net5.0\ref\C21.dll
+C:\git\AP99002\Class\C21\bin\Debug\net5.0\C21.pdb
+C:\git\AP99002\Class\C21\obj\Debug\net5.0\C21.csprojAssemblyReference.cache
+C:\git\AP99002\Class\C21\obj\Debug\net5.0\C21.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP99002\Class\C21\obj\Debug\net5.0\C21.AssemblyInfoInputs.cache
+C:\git\AP99002\Class\C21\obj\Debug\net5.0\C21.AssemblyInfo.cs
+C:\git\AP99002\Class\C21\obj\Debug\net5.0\C21.csproj.CoreCompileInputs.cache
+C:\git\AP99002\Class\C21\obj\Debug\net5.0\C21.dll
+C:\git\AP99002\Class\C21\obj\Debug\net5.0\ref\C21.dll
+C:\git\AP99002\Class\C21\obj\Debug\net5.0\C21.pdb
+C:\git\AP99002\Class\C21\obj\Debug\net5.0\C21.genruntimeconfig.cache

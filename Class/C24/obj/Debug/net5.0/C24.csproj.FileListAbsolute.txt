@@ -1,0 +1,16 @@
+C:\git\AP99002\Class\C24\bin\Debug\net5.0\C24.exe
+C:\git\AP99002\Class\C24\bin\Debug\net5.0\C24.deps.json
+C:\git\AP99002\Class\C24\bin\Debug\net5.0\C24.runtimeconfig.json
+C:\git\AP99002\Class\C24\bin\Debug\net5.0\C24.runtimeconfig.dev.json
+C:\git\AP99002\Class\C24\bin\Debug\net5.0\C24.dll
+C:\git\AP99002\Class\C24\bin\Debug\net5.0\ref\C24.dll
+C:\git\AP99002\Class\C24\bin\Debug\net5.0\C24.pdb
+C:\git\AP99002\Class\C24\obj\Debug\net5.0\C24.csprojAssemblyReference.cache
+C:\git\AP99002\Class\C24\obj\Debug\net5.0\C24.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP99002\Class\C24\obj\Debug\net5.0\C24.AssemblyInfoInputs.cache
+C:\git\AP99002\Class\C24\obj\Debug\net5.0\C24.AssemblyInfo.cs
+C:\git\AP99002\Class\C24\obj\Debug\net5.0\C24.csproj.CoreCompileInputs.cache
+C:\git\AP99002\Class\C24\obj\Debug\net5.0\C24.dll
+C:\git\AP99002\Class\C24\obj\Debug\net5.0\ref\C24.dll
+C:\git\AP99002\Class\C24\obj\Debug\net5.0\C24.pdb
+C:\git\AP99002\Class\C24\obj\Debug\net5.0\C24.genruntimeconfig.cache

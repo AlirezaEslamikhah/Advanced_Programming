@@ -1,0 +1,16 @@
+C:\git\AP99002\Assignments\A2\A2\bin\Debug\net5.0\A2.exe
+C:\git\AP99002\Assignments\A2\A2\bin\Debug\net5.0\A2.deps.json
+C:\git\AP99002\Assignments\A2\A2\bin\Debug\net5.0\A2.runtimeconfig.json
+C:\git\AP99002\Assignments\A2\A2\bin\Debug\net5.0\A2.runtimeconfig.dev.json
+C:\git\AP99002\Assignments\A2\A2\bin\Debug\net5.0\A2.dll
+C:\git\AP99002\Assignments\A2\A2\bin\Debug\net5.0\ref\A2.dll
+C:\git\AP99002\Assignments\A2\A2\bin\Debug\net5.0\A2.pdb
+C:\git\AP99002\Assignments\A2\A2\obj\Debug\net5.0\A2.csprojAssemblyReference.cache
+C:\git\AP99002\Assignments\A2\A2\obj\Debug\net5.0\A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP99002\Assignments\A2\A2\obj\Debug\net5.0\A2.AssemblyInfoInputs.cache
+C:\git\AP99002\Assignments\A2\A2\obj\Debug\net5.0\A2.AssemblyInfo.cs
+C:\git\AP99002\Assignments\A2\A2\obj\Debug\net5.0\A2.csproj.CoreCompileInputs.cache
+C:\git\AP99002\Assignments\A2\A2\obj\Debug\net5.0\A2.dll
+C:\git\AP99002\Assignments\A2\A2\obj\Debug\net5.0\ref\A2.dll
+C:\git\AP99002\Assignments\A2\A2\obj\Debug\net5.0\A2.pdb
+C:\git\AP99002\Assignments\A2\A2\obj\Debug\net5.0\A2.genruntimeconfig.cache

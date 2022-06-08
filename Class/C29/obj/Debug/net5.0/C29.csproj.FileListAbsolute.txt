@@ -1,0 +1,16 @@
+C:\git\AP99002\Class\C29\bin\Debug\net5.0\C29.exe
+C:\git\AP99002\Class\C29\bin\Debug\net5.0\C29.deps.json
+C:\git\AP99002\Class\C29\bin\Debug\net5.0\C29.runtimeconfig.json
+C:\git\AP99002\Class\C29\bin\Debug\net5.0\C29.runtimeconfig.dev.json
+C:\git\AP99002\Class\C29\bin\Debug\net5.0\C29.dll
+C:\git\AP99002\Class\C29\bin\Debug\net5.0\ref\C29.dll
+C:\git\AP99002\Class\C29\bin\Debug\net5.0\C29.pdb
+C:\git\AP99002\Class\C29\obj\Debug\net5.0\C29.csprojAssemblyReference.cache
+C:\git\AP99002\Class\C29\obj\Debug\net5.0\C29.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP99002\Class\C29\obj\Debug\net5.0\C29.AssemblyInfoInputs.cache
+C:\git\AP99002\Class\C29\obj\Debug\net5.0\C29.AssemblyInfo.cs
+C:\git\AP99002\Class\C29\obj\Debug\net5.0\C29.csproj.CoreCompileInputs.cache
+C:\git\AP99002\Class\C29\obj\Debug\net5.0\C29.dll
+C:\git\AP99002\Class\C29\obj\Debug\net5.0\ref\C29.dll
+C:\git\AP99002\Class\C29\obj\Debug\net5.0\C29.pdb
+C:\git\AP99002\Class\C29\obj\Debug\net5.0\C29.genruntimeconfig.cache

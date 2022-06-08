@@ -1,0 +1,16 @@
+C:\git\AP99002\Class\C19\bin\Debug\net5.0\C19.exe
+C:\git\AP99002\Class\C19\bin\Debug\net5.0\C19.deps.json
+C:\git\AP99002\Class\C19\bin\Debug\net5.0\C19.runtimeconfig.json
+C:\git\AP99002\Class\C19\bin\Debug\net5.0\C19.runtimeconfig.dev.json
+C:\git\AP99002\Class\C19\bin\Debug\net5.0\C19.dll
+C:\git\AP99002\Class\C19\bin\Debug\net5.0\ref\C19.dll
+C:\git\AP99002\Class\C19\bin\Debug\net5.0\C19.pdb
+C:\git\AP99002\Class\C19\obj\Debug\net5.0\C19.csprojAssemblyReference.cache
+C:\git\AP99002\Class\C19\obj\Debug\net5.0\C19.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP99002\Class\C19\obj\Debug\net5.0\C19.AssemblyInfoInputs.cache
+C:\git\AP99002\Class\C19\obj\Debug\net5.0\C19.AssemblyInfo.cs
+C:\git\AP99002\Class\C19\obj\Debug\net5.0\C19.csproj.CoreCompileInputs.cache
+C:\git\AP99002\Class\C19\obj\Debug\net5.0\C19.dll
+C:\git\AP99002\Class\C19\obj\Debug\net5.0\ref\C19.dll
+C:\git\AP99002\Class\C19\obj\Debug\net5.0\C19.pdb
+C:\git\AP99002\Class\C19\obj\Debug\net5.0\C19.genruntimeconfig.cache

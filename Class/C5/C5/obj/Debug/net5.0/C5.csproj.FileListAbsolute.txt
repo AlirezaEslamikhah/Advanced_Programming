@@ -1,0 +1,16 @@
+C:\git\AP99002\Class\C5\C5\bin\Debug\net5.0\C5.exe
+C:\git\AP99002\Class\C5\C5\bin\Debug\net5.0\C5.deps.json
+C:\git\AP99002\Class\C5\C5\bin\Debug\net5.0\C5.runtimeconfig.json
+C:\git\AP99002\Class\C5\C5\bin\Debug\net5.0\C5.runtimeconfig.dev.json
+C:\git\AP99002\Class\C5\C5\bin\Debug\net5.0\C5.dll
+C:\git\AP99002\Class\C5\C5\bin\Debug\net5.0\ref\C5.dll
+C:\git\AP99002\Class\C5\C5\bin\Debug\net5.0\C5.pdb
+C:\git\AP99002\Class\C5\C5\obj\Debug\net5.0\C5.csprojAssemblyReference.cache
+C:\git\AP99002\Class\C5\C5\obj\Debug\net5.0\C5.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\AP99002\Class\C5\C5\obj\Debug\net5.0\C5.AssemblyInfoInputs.cache
+C:\git\AP99002\Class\C5\C5\obj\Debug\net5.0\C5.AssemblyInfo.cs
+C:\git\AP99002\Class\C5\C5\obj\Debug\net5.0\C5.csproj.CoreCompileInputs.cache
+C:\git\AP99002\Class\C5\C5\obj\Debug\net5.0\C5.dll
+C:\git\AP99002\Class\C5\C5\obj\Debug\net5.0\ref\C5.dll
+C:\git\AP99002\Class\C5\C5\obj\Debug\net5.0\C5.pdb
+C:\git\AP99002\Class\C5\C5\obj\Debug\net5.0\C5.genruntimeconfig.cache
